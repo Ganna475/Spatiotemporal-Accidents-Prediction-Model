@@ -74,6 +74,6 @@ Future Prediction
 
 - Temporal patterns show how accident rates fluctuate over time.
 
-Spatial analysis highlights key risk zones for traffic authorities.
+- Spatial analysis highlights key risk zones for traffic authorities.
 
-Combining both dimensions allows more effective resource allocation and preventive measures.
+- Combining both dimensions allows more effective resource allocation and preventive measures.
